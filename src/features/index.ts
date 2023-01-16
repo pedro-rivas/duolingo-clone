@@ -1,0 +1,1 @@
+export {default as LabelsChallenge} from './LabelsChallenge/LabelsChallenge';
